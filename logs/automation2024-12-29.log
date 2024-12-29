@@ -1,0 +1,76 @@
+21:37:43 [main] INFO  testCases.AccountRegistrationTest - ** Starting the AccountRegistrationTest ** 
+21:37:43 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account link
+21:37:44 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register link
+21:37:44 [main] INFO  testCases.AccountRegistrationTest - Providing customer details 
+21:37:48 [main] INFO  testCases.AccountRegistrationTest - Validating expected message.. 
+21:37:48 [main] INFO  testCases.AccountRegistrationTest - ** Finished AccountRegistrationTest **
+21:37:53 [main] INFO  testCases.LoginTest - **Starting the login Test**
+17:07:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+
+17:07:17 [main] INFO  testCases.AccountRegistrationTest - ** Starting the AccountRegistrationTest ** 
+17:09:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+
+17:11:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+
+17:11:42 [main] INFO  testCases.AccountRegistrationTest - ** Starting the AccountRegistrationTest ** 
+17:11:42 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account link
+17:11:43 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register link
+17:11:43 [main] INFO  testCases.AccountRegistrationTest - Providing customer details 
+17:11:48 [main] INFO  testCases.AccountRegistrationTest - Validating expected message.. 
+17:11:48 [main] INFO  testCases.AccountRegistrationTest - ** Finished AccountRegistrationTest **
+17:11:53 [main] INFO  testCases.LoginTest - **Starting the login Test**
+17:18:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+
+17:18:37 [main] INFO  testCases.LoginTest - **Starting the login Test**
+17:19:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+
+17:21:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+
+17:25:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+
+17:28:40 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+
+17:32:36 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+
+19:30:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+
+19:31:21 [main] INFO  testCases.LoginTest - **Starting the login Test**
+19:31:25 [main] INFO  testCases.LoginTest - **Finished Login Test**
+19:35:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+
+19:35:13 [main] INFO  testCases.AccountRegistrationTest - ** Starting the AccountRegistrationTest ** 
+19:35:14 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account link
+19:35:15 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register link
+19:35:15 [main] INFO  testCases.AccountRegistrationTest - Providing customer details 
+19:35:20 [main] INFO  testCases.AccountRegistrationTest - Validating expected message.. 
+19:35:20 [main] INFO  testCases.AccountRegistrationTest - ** Finished AccountRegistrationTest **
+19:35:25 [main] INFO  testCases.LoginTest - **Starting the login Test**
+19:35:29 [main] INFO  testCases.LoginTest - **Finished Login Test**
+19:36:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+
+19:36:36 [main] INFO  testCases.AccountRegistrationTest - ** Starting the AccountRegistrationTest ** 
+19:36:37 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account link
+19:36:37 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register link
+19:36:37 [main] INFO  testCases.AccountRegistrationTest - Providing customer details 
+19:36:43 [main] INFO  testCases.AccountRegistrationTest - Validating expected message.. 
+19:36:43 [main] INFO  testCases.AccountRegistrationTest - ** Finished AccountRegistrationTest **
+19:36:48 [main] INFO  testCases.LoginTest - **Starting the login Test**
+19:36:52 [main] INFO  testCases.LoginTest - **Finished Login Test**
+13:01:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\grid-docker.xml
+
+13:01:38 [main] INFO  testCases.AccountRegistrationTest - ** Starting the AccountRegistrationTest ** 
+13:01:39 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account link
+13:01:40 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register link

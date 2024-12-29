@@ -1,0 +1,73 @@
+15:18:52 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:19:05 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:19:05 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:19:08 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:20:03 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\LoginDDT.xml
+
+15:20:13 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:20:17 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:20:17 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:20:30 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:20:30 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:20:45 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:20:45 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:20:59 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:20:59 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:21:04 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:29:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\LoginDDT.xml
+
+15:29:21 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:29:23 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:29:23 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:29:34 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:29:34 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:29:45 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:29:45 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:29:56 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:29:56 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:29:58 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:29:58 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:30:09 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+22:39:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+
+22:40:04 [main] INFO  testCases.LoginTest - **Starting the login Test**
+22:40:11 [main] INFO  testCases.LoginTest - **Finished Login Test**
+22:42:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+
+22:42:18 [main] INFO  testCases.LoginTest - **Starting the login Test**
+23:03:37 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+
+23:03:43 [main] INFO  testCases.AccountRegistrationTest - ** Starting the AccountRegistrationTest ** 
+23:03:43 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account link
+23:03:44 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register link
+23:03:44 [main] INFO  testCases.AccountRegistrationTest - Providing customer details 
+23:03:48 [main] INFO  testCases.AccountRegistrationTest - Validating expected message.. 
+23:03:48 [main] INFO  testCases.AccountRegistrationTest - ** Finished AccountRegistrationTest **
+23:03:53 [main] INFO  testCases.LoginTest - **Starting the login Test**
+23:20:21 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+
+23:20:27 [main] INFO  testCases.AccountRegistrationTest - ** Starting the AccountRegistrationTest ** 
+23:20:27 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account link
+23:20:28 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register link
+23:20:28 [main] INFO  testCases.AccountRegistrationTest - Providing customer details 
+23:20:34 [main] INFO  testCases.AccountRegistrationTest - Validating expected message.. 
+23:20:34 [main] INFO  testCases.AccountRegistrationTest - ** Finished AccountRegistrationTest **
+23:22:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+
+23:22:15 [main] INFO  testCases.AccountRegistrationTest - ** Starting the AccountRegistrationTest ** 
+23:22:15 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account link
+23:22:16 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register link
+23:22:16 [main] INFO  testCases.AccountRegistrationTest - Providing customer details 
+23:22:20 [main] INFO  testCases.AccountRegistrationTest - Validating expected message.. 
+23:22:20 [main] INFO  testCases.AccountRegistrationTest - ** Finished AccountRegistrationTest **
+23:22:24 [main] INFO  testCases.LoginTest - **Starting the login Test**
+21:37:27 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+

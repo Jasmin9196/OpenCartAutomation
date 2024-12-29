@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-29T13:01:25 IST" name="Grid Docker" finished-at="2024-12-29T13:02:36 IST" duration-ms="71455">
+    <groups>
+      <group name="Master">
+        <method signature="AccountRegistrationTest.verifyaccountregistration()[pri:0, instance:testCases.AccountRegistrationTest@6d1d4d7]" name="verifyaccountregistration" class="testCases.AccountRegistrationTest"/>
+        <method signature="AccountRegistrationTest.verifyaccountregistration()[pri:0, instance:testCases.AccountRegistrationTest@7c041b41]" name="verifyaccountregistration" class="testCases.AccountRegistrationTest"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="LoginTest.verifylogin()[pri:0, instance:testCases.LoginTest@62679465]" name="verifylogin" class="testCases.LoginTest"/>
+        <method signature="LoginTest.verifylogin()[pri:0, instance:testCases.LoginTest@7f69d591]" name="verifylogin" class="testCases.LoginTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="AccountRegistrationTest.verifyaccountregistration()[pri:0, instance:testCases.AccountRegistrationTest@6d1d4d7]" name="verifyaccountregistration" class="testCases.AccountRegistrationTest"/>
+        <method signature="AccountRegistrationTest.verifyaccountregistration()[pri:0, instance:testCases.AccountRegistrationTest@7c041b41]" name="verifyaccountregistration" class="testCases.AccountRegistrationTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2024-12-29T13:01:25 IST" name="Linux-Chrome" finished-at="2024-12-29T13:01:55 IST" duration-ms="30117">
+      <class name="testCases.LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@62679465]" started-at="2024-12-29T13:01:46 IST" name="setup" finished-at="2024-12-29T13:01:50 IST" duration-ms="4109" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogin()[pri:0, instance:testCases.LoginTest@62679465]" started-at="2024-12-29T13:01:50 IST" name="verifylogin" finished-at="2024-12-29T13:01:55 IST" duration-ms="4613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LoginTest@62679465]" started-at="2024-12-29T13:01:55 IST" name="tearDown" finished-at="2024-12-29T13:01:55 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.LoginTest -->
+      <class name="testCases.AccountRegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.AccountRegistrationTest@6d1d4d7]" started-at="2024-12-29T13:01:26 IST" name="setup" finished-at="2024-12-29T13:01:38 IST" duration-ms="11499" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyaccountregistration()[pri:0, instance:testCases.AccountRegistrationTest@6d1d4d7]" started-at="2024-12-29T13:01:38 IST" name="verifyaccountregistration" finished-at="2024-12-29T13:01:46 IST" duration-ms="8045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaccountregistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.AccountRegistrationTest@6d1d4d7]" started-at="2024-12-29T13:01:46 IST" name="tearDown" finished-at="2024-12-29T13:01:46 IST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.AccountRegistrationTest -->
+    </test> <!-- Linux-Chrome -->
+    <test started-at="2024-12-29T13:01:57 IST" name="Linux-Firefox" finished-at="2024-12-29T13:02:36 IST" duration-ms="39251">
+      <class name="testCases.LoginTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginTest@7f69d591]" started-at="2024-12-29T13:02:21 IST" name="setup" finished-at="2024-12-29T13:02:31 IST" duration-ms="10050" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogin()[pri:0, instance:testCases.LoginTest@7f69d591]" started-at="2024-12-29T13:02:31 IST" name="verifylogin" finished-at="2024-12-29T13:02:34 IST" duration-ms="3371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.LoginTest@7f69d591]" started-at="2024-12-29T13:02:34 IST" name="tearDown" finished-at="2024-12-29T13:02:36 IST" duration-ms="2474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.LoginTest -->
+      <class name="testCases.AccountRegistrationTest">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.AccountRegistrationTest@7c041b41]" started-at="2024-12-29T13:01:57 IST" name="setup" finished-at="2024-12-29T13:02:13 IST" duration-ms="16005" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyaccountregistration()[pri:0, instance:testCases.AccountRegistrationTest@7c041b41]" started-at="2024-12-29T13:02:13 IST" name="verifyaccountregistration" finished-at="2024-12-29T13:02:18 IST" duration-ms="5074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaccountregistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.AccountRegistrationTest@7c041b41]" started-at="2024-12-29T13:02:18 IST" name="tearDown" finished-at="2024-12-29T13:02:21 IST" duration-ms="2259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.AccountRegistrationTest -->
+    </test> <!-- Linux-Firefox -->
+  </suite> <!-- Grid Docker -->
+</testng-results>

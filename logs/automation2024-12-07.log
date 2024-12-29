@@ -1,0 +1,76 @@
+12:30:43 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@28fd3dc1: 124 ms
+12:30:43 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1639f93a: 22 ms
+12:30:43 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7dff6d05: 28 ms
+12:30:43 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1816e24a: 14 ms
+12:30:43 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3402b4c9: 4 ms
+12:30:43 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@95bb2a2: 0 ms
+12:32:19 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\LoginDDT.xml
+
+12:34:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\LoginDDT.xml
+
+14:06:51 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\LoginDDT.xml
+
+14:41:01 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\LoginDDT.xml
+
+14:43:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\LoginDDT.xml
+
+14:54:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\LoginDDT.xml
+
+14:57:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\LoginDDT.xml
+
+14:57:28 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+14:57:32 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+14:57:32 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+14:57:44 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+14:57:44 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+14:57:57 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+14:57:57 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+14:58:09 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+14:58:09 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:09:11 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\test-output\testng-failed.xml
+
+15:09:19 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:09:23 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:09:47 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\LoginDDT.xml
+
+15:09:58 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:10:03 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:10:03 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:10:16 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:10:16 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:10:28 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:10:28 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:10:41 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:10:41 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:10:46 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:15:13 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\LoginDDT.xml
+
+15:15:20 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:15:24 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:15:24 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:15:36 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:15:36 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:15:49 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:15:49 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:16:01 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:16:01 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:16:04 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:18:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\LoginDDT.xml
+
+15:18:23 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:18:27 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:18:27 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:18:40 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**
+15:18:40 [main] INFO  testCases.LoginDDT - ***starting LoginDDT test**
+15:18:52 [main] INFO  testCases.LoginDDT - ***Finished LoginDDT test**

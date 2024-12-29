@@ -1,0 +1,53 @@
+12:07:57:030 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\JASMIN~1\AppData\Local\Temp\testng-eclipse-858289007\testng-customsuite.xml"
+12:07:57:254 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+12:07:57:258 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+12:07:57:259 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:57:260 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:57:260 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:57:260 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:57:261 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:57:261 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:57:266 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+12:07:57:277 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+12:07:57:278 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:57:279 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:57:279 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:57:279 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:57:279 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:57:279 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:57:280 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:57:280 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:57:280 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:57:280 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:57:283 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:57:283 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:57:283 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:57:284 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:57:285 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:57:286 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+12:07:57:287 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:57:287 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:57:287 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:07:57:287 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:07:57:293 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\AppData\Local\Temp\testng-eclipse-858289007\testng-customsuite.xml
+
+12:07:57:308 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+12:08:00:919 [main] INFO  testCases.AccountRegistrationTest - ** Starting the AccountRegistrationTest ** 
+12:08:01:007 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account link
+12:08:01:351 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register link
+12:08:01:353 [main] INFO  testCases.AccountRegistrationTest - Providing customer details 
+12:08:02:530 [main] INFO  testCases.AccountRegistrationTest - Validating expected message.. 
+12:08:02:566 [main] ERROR testCases.AccountRegistrationTest - Test Failed..
+12:08:02:566 [main] DEBUG testCases.AccountRegistrationTest - Debug logs..
+12:08:02:767 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@5524b72f: 35 ms
+12:08:02:781 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@706eab5d: 14 ms
+12:08:02:786 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@abff8b7: 4 ms
+12:08:02:793 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@476e8796: 7 ms
+12:08:02:799 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@61d84e08: 6 ms
+12:08:02:799 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2d9f64c9: 0 ms
+22:41:47:320 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Jasmin P\SeleniumWebdriver-Workspace\OpencartV121\master.xml
+
+22:41:49:735 [main] INFO  testCases.LoginTest - **Starting the login Test**
+22:41:50:827 [main] INFO  testCases.LoginTest - **Finished Login Test**
