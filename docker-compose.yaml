@@ -1,31 +1,31 @@
 version: '3.8'
+
 services:
-selenium-hub:
-image: selenium/hub
-ports:
-- "4442-4444:4442-4444"
+  selenium-hub:
+    image: selenium/hub
+    ports:
+      - "4442-4444:4442-4444"
+    networks:
+      - grid
+
+  node-chrome:
+    image: selenium/node-chrome
+    environment:
+      - SE_EVENT_BUS_HOST=selenium-hub
+      - SE_EVENT_BUS_PUBLISH_PORT=4442
+      - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
+    networks:
+      - grid
+
+  node-firefox:
+    image: selenium/node-firefox
+    environment:
+      - SE_EVENT_BUS_HOST=selenium-hub
+      - SE_EVENT_BUS_PUBLISH_PORT=4442
+      - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
+    networks:
+      - grid
+
 networks:
-- grid
-
-node-chrome:
-image1: selenium/node-chrome
-environment1:
- - SE_EVENT_BUS_HOST=selenium-hub
- - SE_EVENT_BUS_PUBLISH_PORT=4442
- - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
-networks2:
-- grid
-
-node-firefox:
-image2: selenium/node-firefox
-environment2:
- - SE_EVENT_BUS_HOST=selenium-hub
- - SE_EVENT_BUS_PUBLISH_PORT=4442
- - SE_EVENT_BUS_SUBSCRIBE_PORT=4443
-networks3:
-- grid
- 
-networks4:
-grid:
-driver: bridge
- 
+  grid:
+    driver: bridge
