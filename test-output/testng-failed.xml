@@ -16,6 +16,13 @@
       </run>
     </groups>
     <classes>
+      <class name="testCases.LoginTest">
+        <methods>
+          <include name="verifylogin"/>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testCases.LoginTest -->
       <class name="testCases.AccountRegistrationTest">
         <methods>
           <include name="tearDown"/>
