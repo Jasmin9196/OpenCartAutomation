@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 
-<suite name="Suite" thread-count="5" parallel="tests">
+<suite name="Suite" thread-count="5">
+  
+  
+  <test name="chrometest">
+	  <parameter name="os" value="Windows"/>
+		  
+	  <parameter name="browser" value="Chrome"/>	  
+	  
+    <classes>
+      <class name="testCases.AccountRegistrationTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
   <test name="edgetest">
 	  <parameter name="os" value="Windows"/>
 		  
@@ -11,18 +23,6 @@
       <class name="testCases.AccountRegistrationTest"/>
     </classes>
   </test> <!-- Test -->
-
-
- <test name="chrometest">
-	  <parameter name="os" value="Windows"/>
-		  
-	  <parameter name="browser" value="Chrome"/>
-	  
-    <classes>
-      <class name="testCases.AccountRegistrationTest"/>
-    </classes>
-  </test> <!-- Test -->
-  
   
    <test name="firefoxtest">
 	  <parameter name="os" value="Windows"/>
@@ -33,9 +33,6 @@
       <class name="testCases.AccountRegistrationTest"/>
     </classes>
   </test> <!-- Test -->
-  
-  
-  
-  
+   
   
   </suite> <!-- Suite -->

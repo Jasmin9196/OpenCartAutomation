@@ -26,6 +26,10 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
+//import com.aventstack.chaintest.plugins.ChainTestListener;
+
+//@Listeners(ChainTestListener.class)
+
 public class BaseClass {
 	
 	public static WebDriver driver;
@@ -53,7 +57,7 @@ public void setup(String os,String br) throws IOException
 			
 			//OS
 			
-			if (os.equalsIgnoreCase("Windows"))
+			if (os.equalsIgnoreCase("windows"))
 			{
 				capabilities.setPlatform(Platform.WIN11);
 			}
@@ -95,7 +99,6 @@ public void setup(String os,String br) throws IOException
 		case "firefox" : driver= new FirefoxDriver(); break;
 		default : System.out.println("Invalid browser name...");return;
 		}
-		
 		
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));

@@ -23,6 +23,13 @@
           <include name="setup"/>
         </methods>
       </class> <!-- testCases.LoginTest -->
+      <class name="testCases.SearchProduct">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="verifysearchproduct"/>
+        </methods>
+      </class> <!-- testCases.SearchProduct -->
       <class name="testCases.AccountRegistrationTest">
         <methods>
           <include name="tearDown"/>

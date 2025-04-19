@@ -22,6 +22,7 @@
     <classes>
       <class name="testCases.AccountRegistrationTest"/>
       <class name="testCases.LoginTest"/>
+      <class name="testCases.SearchProduct"/>
       
     </classes>
   </test> <!-- Test -->

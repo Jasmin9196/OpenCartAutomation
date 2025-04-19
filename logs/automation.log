@@ -1,2 +1,11 @@
-22:15:49 [main] INFO  testCases.LoginTest - **Starting the login Test**
-22:15:51 [main] INFO  testCases.LoginTest - **Finished Login Test**
+16:23:22 [main] INFO  testCases.SearchProduct - ** Finished searchproducttest **
+08:30:37 [main] INFO  testCases.AccountRegistrationTest - ** Starting the AccountRegistrationTest ** 
+08:30:38 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account link
+08:30:39 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register link
+08:30:39 [main] INFO  testCases.AccountRegistrationTest - Providing customer details 
+08:30:45 [main] INFO  testCases.AccountRegistrationTest - Validating expected message.. 
+08:30:45 [main] INFO  testCases.AccountRegistrationTest - ** Finished AccountRegistrationTest **
+08:30:51 [main] INFO  testCases.LoginTest - **Starting the login Test**
+08:30:55 [main] INFO  testCases.LoginTest - **Finished Login Test**
+08:31:01 [main] INFO  testCases.SearchProduct - ** Starting the searchproducttest ** 
+08:31:03 [main] INFO  testCases.SearchProduct - ** Finished searchproducttest **

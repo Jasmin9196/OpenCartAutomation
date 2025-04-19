@@ -118,7 +118,7 @@ public class ExtentReportManager implements ITestListener
 		{
 			e1.printStackTrace();
 		}
-		/*
+		
 		 try {
 		 
 			
@@ -128,21 +128,21 @@ public class ExtentReportManager implements ITestListener
 		
 		ImageHtmlEmail email= new ImageHtmlEmail();
 		email.setDataSourceResolver(new DataSourceUrlResolver(url));
-		email.setHostName("smtp.googlemail.com");
-		email.setSmtpPort(465);
-		email.setAuthenticator(new DefaultAuthenticator("pateljasmin8578.jp@gmail.com", "password"));
-		email.setSSLOnConnect(true);
-		email.setFrom("pateljasmin8578.jp@gmail.com"); //Sender
+		email.setHostName("smtp.gmail.com");
+		email.setSmtpPort(587);
+		email.setAuthenticator(new DefaultAuthenticator("sureshpatel896198@gmail.com", "frqqpchihgriowei"));
+		email.setStartTLSEnabled(true);
+		email.setFrom("sureshpatel896198@gmail.com"); //Sender
 		email.setSubject("Test Results");
 		email.setMsg("Please find attached report....");
-		email.addTo("jasminpatel@gmail.com"); //Receiver
+		email.addTo("pateljasmin8578.jp@gmail.com"); //Receiver
 		email.attach(url, "extent report", "please check report.....");
 		email.send(); //send the email
 	}
 	catch (Exception e)
 	{
-		e.printStackTrace(); */
-	}
+		e.printStackTrace(); 
+	} 
 	
 	
 		
@@ -151,5 +151,6 @@ public class ExtentReportManager implements ITestListener
 		
 		
 	}
+}
 	
 
