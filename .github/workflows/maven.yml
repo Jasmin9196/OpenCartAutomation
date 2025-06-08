@@ -1,0 +1,26 @@
+name: Nightly OpenCart Maven Tests
+
+on:
+  schedule:
+    - cron: '0 20 * * *'   # Runs every day at 1:30 AM IST
+  workflow_dispatch:        # Optional: allow manual trigger
+
+jobs:
+  nightly-run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Java
+        uses: actions/setup-java@v3
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      - name: Install Chrome
+        uses: browser-actions/setup-chrome@v1
+
+      - name: Run Maven tests
+        run: mvn clean test
