@@ -20,10 +20,11 @@
 	   <parameter name="os" value="Windows"/>
 	   <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.AccountRegistrationTest"/>
-      <class name="testCases.LoginTest"/>
-      <class name="testCases.SearchProduct"/>
-      
+      <!-- <class name="testCases.AccountRegistrationTest"/>-->
+     <!-- <class name="testCases.LoginTest"/> -->
+     <!-- <class name="testCases.SearchProduct"/> -->
+      <!-- <class name="testCases.AddToCartPageTest"/>-->
+      <class name="testCases.EndToEndTest"/>
     </classes>
   </test> <!-- Test -->
   

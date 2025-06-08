@@ -1,0 +1,58 @@
+20:03:24 [main] INFO  testCases.SearchProduct -  Starting TC_004_SearchProductTest 
+20:03:25 [main] INFO  testCases.SearchProduct -  Finished TC_004_SearchProductTest 
+20:07:25 [main] INFO  testCases.AccountRegistrationTest - ** Starting the AccountRegistrationTest ** 
+20:07:26 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account link
+20:07:26 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register link
+20:07:26 [main] INFO  testCases.AccountRegistrationTest - Providing customer details 
+20:07:33 [main] INFO  testCases.AccountRegistrationTest - Validating expected message.. 
+20:07:33 [main] INFO  testCases.AccountRegistrationTest - ** Finished AccountRegistrationTest **
+20:07:39 [main] INFO  testCases.LoginTest - **Starting the login Test**
+20:07:43 [main] INFO  testCases.LoginTest - **Finished Login Test**
+20:07:49 [main] INFO  testCases.SearchProduct -  Starting TC_004_SearchProductTest 
+20:07:50 [main] INFO  testCases.SearchProduct -  Finished TC_004_SearchProductTest 
+12:46:44 [main] INFO  testCases.AccountRegistrationTest - ** Starting the AccountRegistrationTest ** 
+12:46:45 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account link
+12:46:46 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register link
+12:46:46 [main] INFO  testCases.AccountRegistrationTest - Providing customer details 
+12:46:51 [main] INFO  testCases.AccountRegistrationTest - Validating expected message.. 
+12:46:51 [main] INFO  testCases.AccountRegistrationTest - ** Finished AccountRegistrationTest **
+12:46:58 [main] INFO  testCases.LoginTest - **Starting the login Test**
+12:47:02 [main] INFO  testCases.LoginTest - **Finished Login Test**
+12:47:09 [main] INFO  testCases.SearchProduct -  Starting TC_004_SearchProductTest 
+12:47:11 [main] INFO  testCases.SearchProduct -  Finished TC_004_SearchProductTest 
+12:50:42 [main] INFO  testCases.AccountRegistrationTest - ** Starting the AccountRegistrationTest ** 
+12:50:43 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account link
+12:50:44 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register link
+12:50:44 [main] INFO  testCases.AccountRegistrationTest - Providing customer details 
+12:50:50 [main] INFO  testCases.AccountRegistrationTest - Validating expected message.. 
+12:50:50 [main] INFO  testCases.AccountRegistrationTest - ** Finished AccountRegistrationTest **
+12:50:58 [main] INFO  testCases.LoginTest - **Starting the login Test**
+12:51:02 [main] INFO  testCases.LoginTest - **Finished Login Test**
+12:51:09 [main] INFO  testCases.SearchProduct -  Starting TC_004_SearchProductTest 
+12:51:11 [main] INFO  testCases.SearchProduct -  Finished TC_004_SearchProductTest 
+12:51:18 [main] INFO  testCases.AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+13:00:20 [main] INFO  testCases.AccountRegistrationTest - ** Starting the AccountRegistrationTest ** 
+13:00:21 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account link
+13:00:22 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register link
+13:00:22 [main] INFO  testCases.AccountRegistrationTest - Providing customer details 
+13:00:28 [main] INFO  testCases.AccountRegistrationTest - Validating expected message.. 
+13:00:28 [main] INFO  testCases.AccountRegistrationTest - ** Finished AccountRegistrationTest **
+13:00:35 [main] INFO  testCases.LoginTest - **Starting the login Test**
+13:00:40 [main] INFO  testCases.LoginTest - **Finished Login Test**
+13:00:47 [main] INFO  testCases.SearchProduct -  Starting TC_004_SearchProductTest 
+13:00:49 [main] INFO  testCases.SearchProduct -  Finished TC_004_SearchProductTest 
+13:00:55 [main] INFO  testCases.AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+13:00:59 [main] INFO  testCases.AddToCartPageTest -  Finished TC_004_SearchProductTest 
+13:17:04 [main] INFO  testCases.AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+13:35:32 [main] INFO  testCases.AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+13:40:42 [main] INFO  testCases.AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+14:13:40 [main] INFO  testCases.AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+14:20:53 [main] INFO  testCases.AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+14:20:57 [main] INFO  testCases.AddToCartPageTest -  Finished TC_004_SearchProductTest 
+14:32:35 [main] INFO  testCases.AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+14:38:46 [main] INFO  testCases.AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+14:41:15 [main] INFO  testCases.AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+14:41:19 [main] INFO  testCases.AddToCartPageTest -  Finished TC_004_SearchProductTest 
+14:46:51 [main] INFO  testCases.AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+14:47:03 [main] INFO  testCases.AddToCartPageTest -  Finished TC_004_SearchProductTest 
+14:49:28 [main] INFO  testCases.AddToCartPageTest -  Starting TC_005_AddToCartPageTest 

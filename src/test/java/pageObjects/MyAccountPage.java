@@ -1,5 +1,6 @@
 package pageObjects;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -12,7 +13,7 @@ public class MyAccountPage extends BasePage {
 	}
 	
 
-@FindBy (xpath="//h2[normalize-space()='My Account']") //My account page heading
+@FindBy (xpath="//h1[normalize-space()='My Account']") //My account page heading
 WebElement AccHeading;
 
 
@@ -33,7 +34,8 @@ public boolean isMyAccountPageExists()
 	
 	public void clickonlogout()
 	{
-		lnklogout.click();
+	  ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView();", lnklogout);
+	  lnklogout.click();
 	}
 	
 }

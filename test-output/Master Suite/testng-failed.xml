@@ -16,27 +16,13 @@
       </run>
     </groups>
     <classes>
-      <class name="testCases.LoginTest">
-        <methods>
-          <include name="verifylogin"/>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.LoginTest -->
-      <class name="testCases.SearchProduct">
+      <class name="testCases.EndToEndTest">
         <methods>
           <include name="tearDown"/>
-          <include name="setup"/>
-          <include name="verifysearchproduct"/>
-        </methods>
-      </class> <!-- testCases.SearchProduct -->
-      <class name="testCases.AccountRegistrationTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="verifyaccountregistration"/>
+          <include name="endToendTest"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.AccountRegistrationTest -->
+      </class> <!-- testCases.EndToEndTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Master Suite] -->

@@ -1,11 +1,9 @@
-16:23:22 [main] INFO  testCases.SearchProduct - ** Finished searchproducttest **
-08:30:37 [main] INFO  testCases.AccountRegistrationTest - ** Starting the AccountRegistrationTest ** 
-08:30:38 [main] INFO  testCases.AccountRegistrationTest - Clicked on My account link
-08:30:39 [main] INFO  testCases.AccountRegistrationTest - Clicked on Register link
-08:30:39 [main] INFO  testCases.AccountRegistrationTest - Providing customer details 
-08:30:45 [main] INFO  testCases.AccountRegistrationTest - Validating expected message.. 
-08:30:45 [main] INFO  testCases.AccountRegistrationTest - ** Finished AccountRegistrationTest **
-08:30:51 [main] INFO  testCases.LoginTest - **Starting the login Test**
-08:30:55 [main] INFO  testCases.LoginTest - **Finished Login Test**
-08:31:01 [main] INFO  testCases.SearchProduct - ** Starting the searchproducttest ** 
-08:31:03 [main] INFO  testCases.SearchProduct - ** Finished searchproducttest **
+14:49:33 [main] INFO  testCases.AddToCartPageTest -  Finished TC_004_SearchProductTest 
+15:17:39 [main] INFO  testCases.AddToCartPageTest -  Starting TC_005_AddToCartPageTest 
+15:17:44 [main] INFO  testCases.AddToCartPageTest -  Finished TC_004_SearchProductTest 
+02:23:30 [main] ERROR testCases.EndToEndTest - Test Failed..
+02:27:52 [main] ERROR testCases.EndToEndTest - Test Failed..
+02:37:01 [main] ERROR testCases.EndToEndTest - Test Failed..
+02:42:53 [main] ERROR testCases.EndToEndTest - Test Failed. Expected confirmation message not found.
+11:29:44 [main] INFO  testCases.EndToEndTest - Order confirmation message verified successfully.
+11:46:39 [main] INFO  testCases.EndToEndTest - Order confirmation message verified successfully.
